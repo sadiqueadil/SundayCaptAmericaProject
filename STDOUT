@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="11.126733">
+<testcase classname="Ebay Search Functionality" name="Search for Shoes" time="11.126733">
+<skipped><![CDATA[Given Open Ebay Homepage....................................................undefined
+Given Open Ebay Homepage....................................................undefined
+When Search for shoes.......................................................undefined
+Then Item list should have only shoes related products......................undefined
+]]></skipped>
+</testcase>
+</testsuite>

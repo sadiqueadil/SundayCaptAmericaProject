@@ -1,0 +1,18 @@
+{
+  "id": 112,
+  "category": {
+    "id": 1,
+    "name": "Tiger"
+  },
+  "name": "Bengal tiger",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 334,
+      "name": "store"
+    }
+  ],
+  "status": "available"
+}
