@@ -85,7 +85,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 6495906900,
+  "duration": 4389586100,
   "status": "passed"
 });
 formatter.background({
@@ -104,7 +104,7 @@ formatter.match({
   "location": "EbayHomepageSteps.open_Ebay_Homepage()"
 });
 formatter.result({
-  "duration": 2091486500,
+  "duration": 2091364700,
   "status": "passed"
 });
 formatter.scenario({
@@ -163,7 +163,7 @@ formatter.match({
   "location": "EbayHomepageSteps.search_for(String)"
 });
 formatter.result({
-  "duration": 16912919600,
+  "duration": 10611865500,
   "status": "passed"
 });
 formatter.match({
@@ -176,7 +176,7 @@ formatter.match({
   "location": "EbaySearchResultSteps.filter_by(String)"
 });
 formatter.result({
-  "duration": 14474537100,
+  "duration": 5335013300,
   "status": "passed"
 });
 formatter.match({
@@ -189,15 +189,15 @@ formatter.match({
   "location": "EbaySearchResultSteps.item_list_should_have_products_of(String)"
 });
 formatter.result({
-  "duration": 2086863900,
+  "duration": 2068311300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 699885700,
+  "duration": 748634800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5213560500,
+  "duration": 4229918300,
   "status": "passed"
 });
 formatter.background({
@@ -216,7 +216,7 @@ formatter.match({
   "location": "EbayHomepageSteps.open_Ebay_Homepage()"
 });
 formatter.result({
-  "duration": 2002326200,
+  "duration": 2002470500,
   "status": "passed"
 });
 formatter.scenario({
@@ -275,7 +275,7 @@ formatter.match({
   "location": "EbayHomepageSteps.search_for(String)"
 });
 formatter.result({
-  "duration": 20567695900,
+  "duration": 11014302800,
   "status": "passed"
 });
 formatter.match({
@@ -288,7 +288,7 @@ formatter.match({
   "location": "EbaySearchResultSteps.filter_by(String)"
 });
 formatter.result({
-  "duration": 10442955900,
+  "duration": 6414837700,
   "status": "passed"
 });
 formatter.match({
@@ -301,15 +301,15 @@ formatter.match({
   "location": "EbaySearchResultSteps.item_list_should_have_products_of(String)"
 });
 formatter.result({
-  "duration": 2067233100,
+  "duration": 2075045700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 730259900,
+  "duration": 801837100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4127760900,
+  "duration": 3938892600,
   "status": "passed"
 });
 formatter.background({
@@ -328,7 +328,7 @@ formatter.match({
   "location": "EbayHomepageSteps.open_Ebay_Homepage()"
 });
 formatter.result({
-  "duration": 2012908900,
+  "duration": 2011400200,
   "status": "passed"
 });
 formatter.scenario({
@@ -387,7 +387,7 @@ formatter.match({
   "location": "EbayHomepageSteps.search_for(String)"
 });
 formatter.result({
-  "duration": 18744255700,
+  "duration": 10731426900,
   "status": "passed"
 });
 formatter.match({
@@ -400,7 +400,7 @@ formatter.match({
   "location": "EbaySearchResultSteps.filter_by(String)"
 });
 formatter.result({
-  "duration": 13102401900,
+  "duration": 5214171200,
   "status": "passed"
 });
 formatter.match({
@@ -413,11 +413,11 @@ formatter.match({
   "location": "EbaySearchResultSteps.item_list_should_have_products_of(String)"
 });
 formatter.result({
-  "duration": 2087181300,
+  "duration": 2066149700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 664752000,
+  "duration": 790560100,
   "status": "passed"
 });
 formatter.uri("EbayCartDropDown.feature");
@@ -443,7 +443,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 4178639000,
+  "duration": 4193590700,
   "status": "passed"
 });
 formatter.background({
@@ -462,7 +462,7 @@ formatter.match({
   "location": "EbayHomepageSteps.open_Ebay_Homepage()"
 });
 formatter.result({
-  "duration": 2007211700,
+  "duration": 2014520800,
   "status": "passed"
 });
 formatter.scenario({
@@ -512,53 +512,53 @@ formatter.match({
   "location": "EbayHomepageSteps.search_for_Big_Tall_Cotton_Tee_Made_USA()"
 });
 formatter.result({
-  "duration": 10167675600,
+  "duration": 7888097900,
   "status": "passed"
 });
 formatter.match({
   "location": "EbaySearchResultSteps.select_the_first_shirt_on_item_list()"
 });
 formatter.result({
-  "duration": 8213633400,
+  "duration": 8174091800,
   "status": "passed"
 });
 formatter.match({
   "location": "EbayCartStep.select_Size()"
 });
 formatter.result({
-  "duration": 15039467100,
+  "duration": 4801244000,
   "status": "passed"
 });
 formatter.match({
   "location": "EbayCartStep.select_Men_Size()"
 });
 formatter.result({
-  "duration": 4217402100,
+  "duration": 4184002200,
   "status": "passed"
 });
 formatter.match({
   "location": "EbayCartStep.select_Shade()"
 });
 formatter.result({
-  "duration": 4232331800,
+  "duration": 4158180900,
   "status": "passed"
 });
 formatter.match({
   "location": "EbayCartStep.select_Quantity()"
 });
 formatter.result({
-  "duration": 5189993600,
+  "duration": 5209012400,
   "status": "passed"
 });
 formatter.match({
   "location": "EbayCartStep.add_to_shopping_cart()"
 });
 formatter.result({
-  "duration": 9995356100,
+  "duration": 8502870900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 793815700,
+  "duration": 772826500,
   "status": "passed"
 });
 formatter.uri("EbaySearch.feature");
@@ -588,7 +588,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 4769403900,
+  "duration": 4447550200,
   "status": "passed"
 });
 formatter.scenario({
@@ -618,25 +618,25 @@ formatter.match({
   "location": "EbayHomepageSteps.open_Ebay_Homepage()"
 });
 formatter.result({
-  "duration": 2006627800,
+  "duration": 2011597500,
   "status": "passed"
 });
 formatter.match({
   "location": "EbayHomepageSteps.search_for_shoes()"
 });
 formatter.result({
-  "duration": 2590371400,
+  "duration": 2704872300,
   "status": "passed"
 });
 formatter.match({
   "location": "EbaySearchResultSteps.item_list_should_have_only_shoes_related_products()"
 });
 formatter.result({
-  "duration": 4169315000,
+  "duration": 1346510900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 669938200,
+  "duration": 671378900,
   "status": "passed"
 });
 formatter.uri("EbaySearchLaptop.feature");
@@ -666,7 +666,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 4907971700,
+  "duration": 3913136500,
   "status": "passed"
 });
 formatter.background({
@@ -685,7 +685,7 @@ formatter.match({
   "location": "EbayHomepageSteps.open_Ebay_Homepage()"
 });
 formatter.result({
-  "duration": 2005096400,
+  "duration": 2015509500,
   "status": "passed"
 });
 formatter.scenario({
@@ -715,25 +715,25 @@ formatter.match({
   "location": "EbayHomepageSteps.search_for_Laptop()"
 });
 formatter.result({
-  "duration": 4929977100,
+  "duration": 5279207000,
   "status": "passed"
 });
 formatter.match({
   "location": "EbayHomepageSteps.click_Search_Button()"
 });
 formatter.result({
-  "duration": 3371477100,
+  "duration": 2311086800,
   "status": "passed"
 });
 formatter.match({
   "location": "EbaySearchResultSteps.item_list_should_have_only_Laptop_Related_Products()"
 });
 formatter.result({
-  "duration": 197006400,
+  "duration": 201518400,
   "status": "passed"
 });
 formatter.after({
-  "duration": 714511900,
+  "duration": 683456300,
   "status": "passed"
 });
 formatter.uri("EbaySearchShirt.feature");
@@ -763,7 +763,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 3529983800,
+  "duration": 7117464100,
   "status": "passed"
 });
 formatter.background({
@@ -782,7 +782,7 @@ formatter.match({
   "location": "EbayHomepageSteps.open_Ebay_Homepage()"
 });
 formatter.result({
-  "duration": 2010879400,
+  "duration": 2011286200,
   "status": "passed"
 });
 formatter.scenario({
@@ -812,25 +812,25 @@ formatter.match({
   "location": "EbayHomepageSteps.search_for_Shirt()"
 });
 formatter.result({
-  "duration": 93882200,
+  "duration": 98279000,
   "status": "passed"
 });
 formatter.match({
   "location": "EbayHomepageSteps.click_Search_Button()"
 });
 formatter.result({
-  "duration": 7371908500,
+  "duration": 4779706200,
   "status": "passed"
 });
 formatter.match({
   "location": "EbaySearchResultSteps.item_list_should_have_only_Shirt_related_products()"
 });
 formatter.result({
-  "duration": 230939200,
+  "duration": 249710200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 686617400,
+  "duration": 685147100,
   "status": "passed"
 });
 formatter.uri("EbaySigninTest.feature");
@@ -860,7 +860,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 3757016100,
+  "duration": 5331565800,
   "status": "passed"
 });
 formatter.background({
@@ -879,7 +879,7 @@ formatter.match({
   "location": "EbayHomepageSteps.open_Ebay_Homepage()"
 });
 formatter.result({
-  "duration": 2013131900,
+  "duration": 2002639000,
   "status": "passed"
 });
 formatter.scenario({
@@ -914,33 +914,33 @@ formatter.match({
   "location": "EbayHomeSigninSteps.click_on_the_Homepage_Signin_link()"
 });
 formatter.result({
-  "duration": 5419251300,
+  "duration": 5326673000,
   "status": "passed"
 });
 formatter.match({
   "location": "EbayHomeSigninSteps.write_Username_and_Click_Continue_Button()"
 });
 formatter.result({
-  "duration": 40744700,
-  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@type\u003d\u0027text\u0027]\"}\n  (Session info: chrome\u003d114.0.5735.110)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.12.0\u0027, revision: \u00277c6e0b3\u0027, time: \u00272018-05-08T14:04:26.12Z\u0027\nSystem info: host: \u0027DESKTOP-GDC1AVR\u0027, ip: \u0027192.168.0.195\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_201\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\\Users\\Sadique\\AppData\\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:60284}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: c04d9eba4f986474aba85a04294b980e\n*** Element info: {Using\u003dxpath, value\u003d//input[@type\u003d\u0027text\u0027]}\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:419)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\r\n\tat com.sun.proxy.$Proxy18.sendKeys(Unknown Source)\r\n\tat upskill.ebay.pageAction.EbayHomepageActions.WriteEmail(EbayHomepageActions.java:52)\r\n\tat upskill.ebay.stepDef.EbayHomeSigninSteps.write_Username_and_Click_Continue_Button(EbayHomeSigninSteps.java:19)\r\n\tat ✽.And Write Username and Click Continue Button(EbaySigninTest.feature:9)\r\n",
-  "status": "failed"
+  "duration": 4199001200,
+  "status": "passed"
 });
 formatter.match({
   "location": "EbayHomeSigninSteps.write_Password_and_Click_Signin()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 4143312800,
+  "status": "passed"
 });
 formatter.match({
   "location": "EbaySigninResultSteps.the_user_Should_Have_Logged_in_Successfully()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 2045646400,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 136365900,
-  "error_message": "java.io.IOException: The filename, directory name, or volume label syntax is incorrect\r\n\tat java.io.WinNTFileSystem.canonicalize0(Native Method)\r\n\tat java.io.WinNTFileSystem.canonicalize(Unknown Source)\r\n\tat java.io.File.getCanonicalPath(Unknown Source)\r\n\tat org.apache.commons.io.FileUtils.copyFile(FileUtils.java:1064)\r\n\tat org.apache.commons.io.FileUtils.copyFile(FileUtils.java:1028)\r\n\tat upskill.utilities.TakeScreenshot.screenshots(TakeScreenshot.java:21)\r\n\tat upskill.utilities.AfterActions.afterActions(AfterActions.java:13)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:37)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:13)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:31)\r\n\tat cucumber.runtime.java.JavaHookDefinition.execute(JavaHookDefinition.java:60)\r\n\tat cucumber.runtime.Runtime.runHookIfTagsMatch(Runtime.java:223)\r\n\tat cucumber.runtime.Runtime.runHooks(Runtime.java:211)\r\n\tat cucumber.runtime.Runtime.runAfterHooks(Runtime.java:205)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:46)\r\n\tat cucumber.runtime.model.CucumberFeature.run(CucumberFeature.java:165)\r\n\tat cucumber.api.testng.TestNGCucumberRunner.runCucumber(TestNGCucumberRunner.java:63)\r\n\tat cucumber.api.testng.AbstractTestNGCucumberTests.feature(AbstractTestNGCucumberTests.java:21)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)\r\n\tat java.lang.reflect.Method.invoke(Unknown Source)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)\r\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:714)\r\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)\r\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)\r\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:767)\r\n\tat org.testng.TestRunner.run(TestRunner.java:617)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:334)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:240)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1123)\r\n\tat org.testng.TestNG.run(TestNG.java:1031)\r\n\tat org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)\r\n\tat org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)\r\n\tat org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:379)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:340)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:125)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:413)\r\n",
-  "status": "failed"
+  "duration": 732496700,
+  "status": "passed"
 });
 formatter.uri("EbaySummaryMouseHover.feature");
 formatter.feature({
@@ -957,7 +957,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 4780661100,
+  "duration": 4266760500,
   "status": "passed"
 });
 formatter.background({
@@ -976,7 +976,7 @@ formatter.match({
   "location": "EbayHomepageSteps.open_Ebay_Homepage()"
 });
 formatter.result({
-  "duration": 2012038300,
+  "duration": 2003650900,
   "status": "passed"
 });
 formatter.scenario({
@@ -1001,18 +1001,98 @@ formatter.match({
   "location": "EbayHomepageSteps.mouse_Hover_to_MyEbay_Summary()"
 });
 formatter.result({
-  "duration": 2163800900,
+  "duration": 2216103700,
   "status": "passed"
 });
 formatter.match({
   "location": "EbayHomepageSteps.click_on_Summary()"
 });
 formatter.result({
-  "duration": 5024255000,
+  "duration": 4112918700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 706736300,
+  "duration": 869103600,
+  "status": "passed"
+});
+formatter.uri("PetstoreApiTesting.feature");
+formatter.feature({
+  "line": 2,
+  "name": "Petstore API Testing",
+  "description": "",
+  "id": "petstore-api-testing",
+  "keyword": "Feature",
+  "tags": [
+    {
+      "line": 1,
+      "name": "@regression"
+    },
+    {
+      "line": 1,
+      "name": "@api"
+    }
+  ]
+});
+formatter.before({
+  "duration": 3672253800,
+  "status": "passed"
+});
+formatter.scenario({
+  "line": 4,
+  "name": "Pet CRUD API",
+  "description": "",
+  "id": "petstore-api-testing;pet-crud-api",
+  "type": "scenario",
+  "keyword": "Scenario"
+});
+formatter.step({
+  "line": 6,
+  "name": "Create pet",
+  "keyword": "Given "
+});
+formatter.step({
+  "line": 7,
+  "name": "Get pet",
+  "keyword": "And "
+});
+formatter.step({
+  "line": 8,
+  "name": "Update pet",
+  "keyword": "When "
+});
+formatter.step({
+  "line": 9,
+  "name": "Delete pet",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "PetstoreApiSteps.create_pet()"
+});
+formatter.result({
+  "duration": 197722200,
+  "error_message": "java.lang.NoClassDefFoundError: io/restassured/mapper/factory/GsonObjectMapperFactory\r\n\tat io.restassured.config.RestAssuredConfig.\u003cinit\u003e(RestAssuredConfig.java:41)\r\n\tat io.restassured.RestAssured.\u003cclinit\u003e(RestAssured.java:420)\r\n\tat upskill.api.restassured.PetstoreRestAssuredActions.createPet(PetstoreRestAssuredActions.java:13)\r\n\tat upskill.ebay.stepDef.PetstoreApiSteps.create_pet(PetstoreApiSteps.java:13)\r\n\tat ✽.Given Create pet(PetstoreApiTesting.feature:6)\r\nCaused by: java.lang.ClassNotFoundException: io.restassured.mapper.factory.GsonObjectMapperFactory\r\n\tat java.net.URLClassLoader.findClass(URLClassLoader.java:382)\r\n\tat java.lang.ClassLoader.loadClass(ClassLoader.java:424)\r\n\tat sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)\r\n\tat java.lang.ClassLoader.loadClass(ClassLoader.java:357)\r\n\tat io.restassured.config.RestAssuredConfig.\u003cinit\u003e(RestAssuredConfig.java:41)\r\n\tat io.restassured.RestAssured.\u003cclinit\u003e(RestAssured.java:420)\r\n\tat upskill.api.restassured.PetstoreRestAssuredActions.createPet(PetstoreRestAssuredActions.java:13)\r\n\tat upskill.ebay.stepDef.PetstoreApiSteps.create_pet(PetstoreApiSteps.java:13)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat cucumber.runtime.Utils$1.call(Utils.java:37)\r\n\tat cucumber.runtime.Timeout.timeout(Timeout.java:13)\r\n\tat cucumber.runtime.Utils.invoke(Utils.java:31)\r\n\tat cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:38)\r\n\tat cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)\r\n\tat cucumber.runtime.Runtime.runStep(Runtime.java:299)\r\n\tat cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)\r\n\tat cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)\r\n\tat cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:44)\r\n\tat cucumber.runtime.model.CucumberFeature.run(CucumberFeature.java:165)\r\n\tat cucumber.api.testng.TestNGCucumberRunner.runCucumber(TestNGCucumberRunner.java:63)\r\n\tat cucumber.api.testng.AbstractTestNGCucumberTests.feature(AbstractTestNGCucumberTests.java:21)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)\r\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:714)\r\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)\r\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)\r\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:767)\r\n\tat org.testng.TestRunner.run(TestRunner.java:617)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:334)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:240)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1123)\r\n\tat org.testng.TestNG.run(TestNG.java:1031)\r\n\tat org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)\r\n\tat org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)\r\n\tat org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:383)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:344)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:125)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:417)\r\n",
+  "status": "failed"
+});
+formatter.match({
+  "location": "PetstoreApiSteps.get_pet()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "PetstoreApiSteps.update_pet()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.match({
+  "location": "PetstoreApiSteps.delete_pet()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.after({
+  "duration": 947722700,
   "status": "passed"
 });
 formatter.uri("RahulHandleAlert.feature");
@@ -1042,7 +1122,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 10015348900,
+  "duration": 3269201500,
   "status": "passed"
 });
 formatter.scenario({
@@ -1082,39 +1162,39 @@ formatter.match({
   "location": "RahulShettyPracticePageStep.open_Rahul_Shetty_Automation_Practice_Page()"
 });
 formatter.result({
-  "duration": 12847188200,
+  "duration": 32035904800,
   "status": "passed"
 });
 formatter.match({
   "location": "RahulShettyPracticePageStep.type_Your_Name_Under_Switch_To_Alert_Example_Text_Box_and_Click_Alert_Button()"
 });
 formatter.result({
-  "duration": 11189215200,
+  "duration": 11295852700,
   "status": "passed"
 });
 formatter.match({
   "location": "RahulShettyAlertStep.handle_the_Pop_Up_Simple_Alert_with_OK_Button()"
 });
 formatter.result({
-  "duration": 2033085500,
+  "duration": 2033961100,
   "status": "passed"
 });
 formatter.match({
   "location": "RahulShettyAlertStep.type_Your_Name_Under_Switch_To_Alert_Example_Text_Box_and_Click_Confirm_Button()"
 });
 formatter.result({
-  "duration": 2126761300,
+  "duration": 2183762800,
   "status": "passed"
 });
 formatter.match({
   "location": "RahulShettyAlertStep.handle_the_Pop_Up_Confirmation_Alert_with_Cancel_Button()"
 });
 formatter.result({
-  "duration": 2029294300,
+  "duration": 2025792100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 675512200,
+  "duration": 723093400,
   "status": "passed"
 });
 formatter.uri("RahulShettyIframe.feature");
@@ -1144,7 +1224,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 5019599500,
+  "duration": 4269580800,
   "status": "passed"
 });
 formatter.scenario({
@@ -1174,25 +1254,25 @@ formatter.match({
   "location": "RahulShettyPracticePageStep.open_Rahul_Shetty_Automation_Practice_Page()"
 });
 formatter.result({
-  "duration": 34336212200,
+  "duration": 33716419100,
   "status": "passed"
 });
 formatter.match({
   "location": "RahulShettyPracticePageStep.click_on_iFrame_Home()"
 });
 formatter.result({
-  "duration": 190739400,
+  "duration": 134513900,
   "status": "passed"
 });
 formatter.match({
   "location": "RahulShettyPracticePageStep.it_should_reload_iframe_homepage()"
 });
 formatter.result({
-  "duration": 3080114200,
+  "duration": 3045782200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 686574500,
+  "duration": 669588900,
   "status": "passed"
 });
 });
